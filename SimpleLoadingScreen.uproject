@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7DDD7D4D-44D8-3AF9-A257-3DB220222569}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SimpleLoadingScreen",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
